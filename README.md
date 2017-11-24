@@ -4,7 +4,7 @@ This template is a modified `webpack-simple` generated template to add Typescrip
 You can also make similar changes to the other Vue templates.
 
 Compare the differences:
-https://github.com/ducksoupdev/vue-sfc-ts-simple/compare/v0.1.0...v0.3.0
+https://github.com/ducksoupdev/vue-sfc-ts-simple/compare/v0.1.0...v0.4.0
 
 The creation of an official Typescript template is a hot topic for vue-cli - https://github.com/vuejs/vue-cli/issues/263
 
